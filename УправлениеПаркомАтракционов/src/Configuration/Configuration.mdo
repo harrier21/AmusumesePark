@@ -55,8 +55,11 @@
   <roles>Role.ОператорАттракциона</roles>
   <roles>Role.ПолныеПрава</roles>
   <catalogs>Catalog.Атракционы</catalogs>
+  <catalogs>Catalog.ВидыАттракционов</catalogs>
+  <catalogs>Catalog.Номенклатура</catalogs>
   <documents>Document.ПосещениеАттракциона</documents>
   <documents>Document.ПродажаБилетов</documents>
+  <enums>Enum.ВидНоменклатуры</enums>
   <reports>Report.ПродажиПоАттракционнам</reports>
   <reports>Report.СтатистикаПосещений</reports>
   <accumulationRegisters>AccumulationRegister.АктивныеПосещения</accumulationRegisters>
